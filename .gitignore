@@ -7,6 +7,8 @@
 
 # diretório bin gerado pelo Go
 bin/
+
+#.env
 .env
 
 # arquivo de log gerado pelo Docker
