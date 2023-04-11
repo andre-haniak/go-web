@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"go-web/models"
+	"github.com/andre-haniak/go-web/models"
 	"html/template"
 	"log"
 	"net/http"

@@ -1,4 +1,4 @@
-module go-web
+module github.com/andre-haniak/go-web
 
 go 1.20
 

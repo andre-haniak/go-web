@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"go-web/routes"
+	"github.com/andre-haniak/go-web/routes"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package models
 
 import (
-	"go-web/db"
+	"github.com/andre-haniak/go-web/db"
 )
 
 type Product struct {

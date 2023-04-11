@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"go-web/controllers"
+	"github.com/andre-haniak/go-web/controllers"
 	"net/http"
 )
 
