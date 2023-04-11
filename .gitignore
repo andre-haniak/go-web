@@ -1,0 +1,20 @@
+# arquivos binários e executáveis gerados pelo Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# diretório bin gerado pelo Go
+bin/
+
+# arquivo de log gerado pelo Docker
+docker-compose.log
+
+# diretório criado pelo Docker Compose
+docker-compose/
+data/
+
+# arquivos de cache gerados pelo Go
+*.test
+*.prof
